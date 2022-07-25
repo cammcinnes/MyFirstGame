@@ -1,2 +1,2 @@
 # MyFirstGame
-My project with Unity to create a student simulator game.
+My first project with Unity. A student simulator.
